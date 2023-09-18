@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author : Lalatendu Swain | https://github.com/Lalatenduswain
 
 # Source and destination directories
 source_dir="/var/www/html/"
