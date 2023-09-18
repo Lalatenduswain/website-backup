@@ -59,6 +59,3 @@ If you want to show your appreciation, you can donate via [Buy Me a Coffee](http
 ## Disclaimer
 
 This script is provided as-is and may require modifications or updates based on your specific environment and requirements. Use it at your own risk. The authors of the script are not liable for any damages or issues caused by its usage.
-```
-
-In this updated README.md, the GitHub URL points to your repository at `https://github.com/Lalatenduswain/website-backup.git`. Make sure to replace "Lalatenduswain" with your actual GitHub username if it's different.
