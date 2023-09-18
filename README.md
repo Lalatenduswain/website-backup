@@ -41,6 +41,11 @@ This repository contains a Bash script for creating daily backups of your websit
    ```bash
    crontab -e
    ```
+   Or
+
+     ```bash
+   export VISUAL=nano; crontab -e
+   ```
 
    Add the following line to run the script every day at 2:00 AM:
 
@@ -50,7 +55,7 @@ This repository contains a Bash script for creating daily backups of your websit
 
    Replace `/path/to/backup_script.sh` with the actual path to your script.
 
-6. **Save and Exit**: Save the crontab configuration.
+7. **Save and Exit**: Save the crontab configuration.
 
 ## Donations
 
